@@ -25,6 +25,4 @@ twitterのアカウント名を入力することで、そのアカウントの�
     TwitterJP
 
 
-![TwittrJP]('.TwitterJP2018-01-19 10/47/57.534502.png' 'サンプル')
-
-
+![twitterjp2018-01-19](https://user-images.githubusercontent.com/5935989/35131004-172b8d6a-fd07-11e7-8df4-36c0f7bda247.png)
