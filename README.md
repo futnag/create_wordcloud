@@ -18,10 +18,11 @@ twitterのアカウント名を入力することで、そのアカウントの�
 使用例
 ---
 :: python
-python create_wordcloud.py
-TwitterJP
+
+    python create_wordcloud.py
+    TwitterJP
 
 
-![]("TwitterJP2018-01-19 10/47/57.534502.png")
+![TwittrJP](TwitterJP2018-01-19 10/47/57.534502.png 'サンプル')
 
 
