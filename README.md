@@ -20,9 +20,7 @@ twitterのアカウント名を入力することで、そのアカウントの�
 使用例
 ---
 
-
     python create_wordcloud.py
     TwitterJP
-
 
 ![twitterjp2018-01-19](https://user-images.githubusercontent.com/5935989/35131004-172b8d6a-fd07-11e7-8df4-36c0f7bda247.png)
