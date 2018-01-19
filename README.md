@@ -1,8 +1,10 @@
-# create_wordcloud
+create_wordcloud
+---
 
 twitterのアカウント名を入力することで、そのアカウントの直近のツイート１００件からワードクラウドを作成します。
   
 依存ライブラリなど
+---
   
 * amueller/word_cloud
   (https://github.com/amueller/word_cloud)
@@ -17,12 +19,12 @@ twitterのアカウント名を入力することで、そのアカウントの�
 
 使用例
 ---
-:: python
+
 
     python create_wordcloud.py
     TwitterJP
 
 
-![TwittrJP](TwitterJP2018-01-19 10/47/57.534502.png 'サンプル')
+![TwittrJP](.TwitterJP2018-01-19 10/47/57.534502.png 'サンプル')
 
 
