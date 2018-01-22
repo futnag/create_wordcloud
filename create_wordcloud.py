@@ -70,9 +70,10 @@ def main():
                 break
             else:
                 tow = word_data[-1]
+                stop = ["非自立", "代名詞" , "数", "接尾"]
+                validation = all(map(lambda x: x not in tow, stop))
 
-                if tow[0:2] == "名詞" and "非自立" not in tow and "代名詞" not in tow and\
-                                                         "数" not in tow and "接尾" not in tow:
+                if tow[0:2] == "名詞" and validation:
                     result_text.append(word)
 
     create_wordcloud(target_user, " ".join(result_text))
